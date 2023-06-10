@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594874959646",
+    "project_id": "copa-do-nordeste-27a5a",
+    "storage_bucket": "copa-do-nordeste-27a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594874959646:android:ec937d40d7cb7c98f32b0f",
+        "android_client_info": {
+          "package_name": "devandroid.vinicius.copadonordeste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594874959646-ech9cniuft1qaqr0283hu3n8hth5t1gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdy0ZQOlM61NoedRYoAQxZILWz8hOYVDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594874959646-ech9cniuft1qaqr0283hu3n8hth5t1gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
